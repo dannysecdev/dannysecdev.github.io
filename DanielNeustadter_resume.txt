@@ -1,0 +1,70 @@
+﻿Daniel Neustadter
+Washington, DC • Maryland • Virginia • Seeking to Relocate • (850) 320-1653
+daniel.neustadter@vazkeft.net • https://www.linkedin.com/in/daniel-neustadter/ • github.com/dannysecdev
+________________
+
+
+KEY SKILLS
+* Active TS/SCI Clearance
+* Web Pentesting (Burp Suite Pro)
+* Cloud Engineering (AWS, Terraform)
+* Threat Hunting (SIEM on AWS)
+* Linux (SysAdmin & Docker)
+* Software Development (Web)
+* DevSecOps (GitLab, GitHub, etc)
+
+
+________________
+
+
+PROFESSIONAL EXPERIENCE
+United States Air Force, BESPIN Software Factory
+Software Development Operations / Data Engineering / Cyber Operations        08/2022-08/2026
+* Created our pentesting program, remediating hundreds of vulnerabilities as a threat hunting lead.
+* Experience on an agile team, to make a new NextJS app to organize teams for 100+ personnel.
+* Implemented SIEM monitoring integrations across 26 applications on AWS GovCloud/Cloud One.
+* Built from scratch and hardened an enterprise network for 100+ personnel in a secure facility.
+________________
+
+
+EDUCATION
+* Bachelor of Science in Cybersecurity & Information Assurance - Western Governors University
+* Master of Science in Cybersecurity & Information Assurance - Western Governors University
+________________
+
+
+CERTIFICATIONS
+* Associate of ISC2 (CISSP and CCSP exams passed; full certification pending experience requirement)
+* ISC2 SSCP, CC
+* PMI CAPM
+* ITIL 4 Foundation
+* AWS CCP
+* Hashicorp Certified: Terraform Associate
+* CompTIA SecurityX, PenTest+, CySA+, Security+, Net+, A+, Linux+, Project+
+* LPI Linux Essentials
+* GitLab Associate
+________________
+
+
+TRAINING
+* U.S. Air Force Software Development Operations tech school (6 months)
+* AFLCMC/BES-GBO Software Developer Bootcamp (April 2023-August 2023)
+* AFIT SYS 342 - Cyber Risk Assessment of Weapon Systems: C2 Systems
+* Invoke Public Sector AI Bootcamp - 2 weeks
+* 120+ rooms - tryhackme.com/p/vazkeft
+* HackTheBox - vazkeft #1640837
+* codecademy.com/profiles/vazkeft
+* Multiple Anthropic Academy Courses
+* Multiple GitLab University Courses
+* ________________
+
+
+VOLUNTEER WORK
+Personal Hobby, Remote
+Open Source Software Contributor        08/2025-Present
+* Maintaining multiple open source projects on GitHub
+* github.com/dannysecdev
+Boy Scouts of America
+Instructor        10+ Years
+* Supported scouts throughout the Southeastern United States
+* Summer Camp instructor at Wallwood scout camp in North Florida & Camp Sunshine on Maxwell AFB.
